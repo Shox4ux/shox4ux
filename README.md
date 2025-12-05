@@ -1,5 +1,5 @@
 # 💫 About Me:
-**'Hi I am Shokhrukh<br>crazy about Flutter and FastApi'**
+**`Hi I am Shokhrukh<br>crazy about Flutter and FastApi`**
 
 
 ## 🌐 Socials:
