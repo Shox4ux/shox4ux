@@ -1,5 +1,5 @@
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&width=500&lines=Hi+👋!+I'm+Shoxrux+Umarov;FullStack+Developer;Interested+in+Flutter%2C+FastApi" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&width=500&lines=Hi+👋!+I'm+Shohruh+Umarov;FullStack+Developer;Interested+in+Flutter%2C+FastApi" />
 </h2>
 
 ---
